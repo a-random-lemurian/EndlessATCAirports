@@ -2,25 +2,25 @@ All Airports in Endless ATC
 
 # Europe
 ## Belgium
-* EBBR
+* `EBBR` Brussels
 ## Germany
-* EDDF Frankfurt
-* EDDK Cologne
-* EDDL Düsseldorf
-* EDDM Munich
-* EDLW Dortmund
+* `EDDF` Frankfurt
+* `EDDK` Cologne
+* `EDDL` Düsseldorf
+* `EDDM` Munich
+* `EDLW` Dortmund
 ## Finland
 ## United Kingdom
-* EGLL Heathrow (27s / 09s / Future 3-Rwy)
-* EGFF
-* EGCC
+* `EGLL` Heathrow (27s / 09s / Future 3-Rwy)
+* `EGFF`
+* `EGCC`
 * London TMA
 ## Netherlands
 * `EHAM` Amsterdam Schiphol
 * `EHEH` Eindhoven
 ## Ireland
 * `EIDW` Dublin
-* EINN Shannon
+* `EINN` Shannon
 ## Denmark
 * `EKCH` Copenhagen
 ## Poland
