@@ -10,10 +10,7 @@ All Airports in Endless ATC
 * EDLW Dortmund
 # Finland
 # United Kingdom
-* EGLL Heathrow 
-•* 09s East 
-•* 27s West
-** Future (3 runways)
+* EGLL Heathrow (27s / 09s / Future 3-Rwy)
 * EGFF
 * EGCC
 * London TMA
@@ -27,37 +24,22 @@ All Airports in Endless ATC
 * EKCH Copenhagen
 # Poland
 * Warsaw Chopin
-
-:flag_se: Sweden
-
-#essa Stockholm Arlanda
-
-:flag_es: Spain
-
-#lebb Bilbao
-
-#lebl Barcelona
-
-#lemd Madrid
-
-#lepa Palma de Mallorca
-
-:flag_fr: France
-
-#lfpg Charles De Gaulle
-
-:flag_at: Austria
-
-#loww Vienna
-
-:flag_ro: Romania
-
-#lrop 
-:flag_ch: Switzerland
-
-#lsgg
-
-#lszh
+# Sweden
+* `ESSA` Stockholm Arlanda
+# Spain
+* LEBB Bilbao
+* LEBL Barcelona
+* LEMD Madrid
+* LEPA Palma de Mallorca
+# France
+* LFPG Charles De Gaulle
+# Austria
+* LOWW Vienna
+# Romania
+* LROP
+# Switzerland
+* LSGG
+* LSZH
 
 :flag_jp: Japan
 
