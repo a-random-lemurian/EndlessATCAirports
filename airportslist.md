@@ -16,15 +16,15 @@ All Airports in Endless ATC
 * EGCC
 * London TMA
 ## Netherlands
-* EHAM Amsterdam Schiphol
-* Eindhoven
+* `EHAM` Amsterdam Schiphol
+* `EHEH` Eindhoven
 ## Ireland
-* EIDW Dublin
+* `EIDW` Dublin
 * EINN Shannon
 ## Denmark
-* EKCH Copenhagen
+* `EKCH` Copenhagen
 ## Poland
-* Warsaw Chopin
+* `EPWA` Warsaw Chopin
 ## Sweden
 * `ESSA` Stockholm Arlanda
 ## Spain
