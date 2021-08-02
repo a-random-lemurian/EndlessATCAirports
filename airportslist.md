@@ -1,60 +1,32 @@
 All Airports in Endless ATC
 
-:flag_be: Belgium
-
-#ebbr 
-
-:flag_de: Germany
-
-#eddf Frankfurt
-
-#eddk Cologne
-
-#eddl Düsseldorf
-
-#eddm Munich
-
-#edlw Dortmund
-
-:flag_fi: Finland
-
-#efhk
-
-#efro
-
-:flag_gb: United Kingdom
-
-#egll-09s Heathrow 09s East
-
-#egll-27s  Heathrow 27s West
-
-#egll-27s-future EGLL, 3 runways
-
-#egff 
-
-#egcc
-
-#london-tma All of London
-
-:flag_nl: Netherlands
-
-#eham Amsterdam Schiphol
-
-#eheh Eindhoven
-
-:flag_ie: Ireland
-
-#eidw Dublin
-
-#einn Shannon
-
-:flag_dk: Denmark
-
-#ekch Copenhagen
-
-:flag_pl: Poland
-
-#epwa Warsaw Chopin
+# Belgium
+* EBBR
+# Germany
+* EDDF Frankfurt
+* EDDK Cologne
+* EDDL Düsseldorf
+* EDDM Munich
+* EDLW Dortmund
+# Finland
+# United Kingdom
+* EGLL Heathrow 
+•* 09s East 
+•* 27s West
+** Future (3 runways)
+* EGFF
+* EGCC
+* London TMA
+# Netherlands
+* EHAM Amsterdam Schiphol
+* Eindhoven
+# Ireland
+* EIDW Dublin
+* EINN Shannon
+# Denmark
+* EKCH Copenhagen
+# Poland
+* Warsaw Chopin
 
 :flag_se: Sweden
 
