@@ -1,46 +1,47 @@
 All Airports in Endless ATC
 
-# Belgium
+# Europe
+## Belgium
 * EBBR
-# Germany
+## Germany
 * EDDF Frankfurt
 * EDDK Cologne
 * EDDL Düsseldorf
 * EDDM Munich
 * EDLW Dortmund
-# Finland
-# United Kingdom
+## Finland
+## United Kingdom
 * EGLL Heathrow (27s / 09s / Future 3-Rwy)
 * EGFF
 * EGCC
 * London TMA
-# Netherlands
+## Netherlands
 * EHAM Amsterdam Schiphol
 * Eindhoven
-# Ireland
+## Ireland
 * EIDW Dublin
 * EINN Shannon
-# Denmark
+## Denmark
 * EKCH Copenhagen
-# Poland
+## Poland
 * Warsaw Chopin
-# Sweden
+## Sweden
 * `ESSA` Stockholm Arlanda
-# Spain
+## Spain
 * LEBB Bilbao
 * LEBL Barcelona
 * LEMD Madrid
 * LEPA Palma de Mallorca
-# France
+## France
 * LFPG Charles De Gaulle
-# Austria
+## Austria
 * LOWW Vienna
-# Romania
+## Romania
 * LROP
-# Switzerland
+## Switzerland
 * LSGG
 * LSZH
-
+# Asia
 :flag_jp: Japan
 
 #roah
