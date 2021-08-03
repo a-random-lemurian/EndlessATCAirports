@@ -71,9 +71,9 @@ All Airports in Endless ATC
 ## United States
 ### US West
 * `KSCT` SoCal TRACON, 9 airports:
-> `KLAX` Los Angeles
-> `KBUR` Hollywood Burbank
-> `KONT` Ontario Int'l
+> * `KLAX` Los Angeles
+> * `KBUR` Hollywood Burbank
+> * `KONT` Ontario Int'l
 * `KLAS` Las Vegas
 * `KDEN` Denver
 * `KAUS` Austin
