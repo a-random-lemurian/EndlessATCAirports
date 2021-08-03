@@ -42,20 +42,23 @@ Every list is per airport file. Meaning that if one airport file had airports XA
 ## Romania
 *no files yet*
 ## Switzerland
-* LSGG
-* LSZH
+* `LSGG`
+* `LSZH`
 # Asia
 ## Japan
 * `ROAH` Naha Airport
 * `RJBB` Osaka Kansai
 * `RJTT` Tokyo Haneda, `RJAA` Tokyo Narita
 * `RJCC` New Chitose
-
-:flag_kr: South Korea
-
-#rksi Seoul
-
-:flag_cn::flag_hk::flag_mo: China and SARs
+## South Korea
+* `RKSI` Seoul
+##China, SARs
+### Mainland China
+* `ZSPD`
+### Hong Kong & Macau
+* `VHHH`
+## Taiwan
+*none*
 
 #vhhh Hong Kong (includes Macau)
 
