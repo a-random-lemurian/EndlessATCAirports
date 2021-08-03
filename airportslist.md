@@ -114,3 +114,6 @@ All Airports in Endless ATC
 # Africa
 ## Morrocco
 * `GMMN` Rabat-Sale
+
+# Fictional
+* `XRSS` [Lemuria Test Airport 1](https://github.com/a-random-lemurian/EndlessATCAirports/blob/master/final/custom/XRSS.txt)
