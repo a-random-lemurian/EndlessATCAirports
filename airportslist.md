@@ -16,12 +16,17 @@ All Airports in Endless ATC
 * `EDLW` Dortmund
 ## Finland
 ## United Kingdom
-* `EGLL` Heathrow (27s / 09s / Future 3-Rwy)
+* `EGLL` Heathrow 
+> *3 Variants available*
+> * 27s
+> * 09s
+> * Future (3 runways)
 * `EGFF` Cardiff
 * `EGCC` Manchester
 * London TMA
 ## Netherlands
-* `EHAM` Amsterdam Schiphol, `EHRD` Rotterdam
+* `EHAM` Amsterdam Schiphol, 
+> * `EHRD` Rotterdam
 * `EHEH` Eindhoven
 ## Ireland
 * `EIDW` Dublin
@@ -38,7 +43,8 @@ All Airports in Endless ATC
 * `LEMD` Madrid
 * `LEPA` Palma de Mallorca
 ## France
-* `LFPG` Charles De Gaulle, `LFPO` Paris Orly
+* `LFPG` Charles De Gaulle
+> * `LFPO` Paris Orly
 ## Austria
 * `LOWW` Vienna
 ## Romania
@@ -50,7 +56,8 @@ All Airports in Endless ATC
 ## Japan
 * `ROAH` Naha Airport
 * `RJBB` Osaka Kansai
-* `RJTT` Tokyo Haneda, `RJAA` Tokyo Narita
+* `RJTT` Tokyo Haneda
+> * `RJAA` Tokyo Narita
 * `RJCC` New Chitose
 ## South Korea
 * `RKSI` Seoul
@@ -79,7 +86,9 @@ All Airports in Endless ATC
 * `KAUS` Austin
 * `KDFW` Dallas Fort Worth
 ### US East
-* `KJFK` JFK, `KEWR` Newark Liberty, `KLGA` LaGuardia
+* `KJFK` JFK
+> * `KEWR` Newark Liberty
+> * `KLGA` LaGuardia
 * `KRVL` Mifflin County
 # Middle East
 ## United Arab Emirates
