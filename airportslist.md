@@ -1,5 +1,8 @@
 All Airports in Endless ATC
 
+# Note
+Every list is per airport file. Meaning that if one airport file had airports XAAA and XAAB in one it would be listed as one airport but not seperately.
+
 # Europe
 ## Belgium
 * `EBBR` Brussels
@@ -16,7 +19,7 @@ All Airports in Endless ATC
 * `EGCC`
 * London TMA
 ## Netherlands
-* `EHAM` Amsterdam Schiphol
+* `EHAM` Amsterdam Schiphol, `EHRD` Rotterdam
 * `EHEH` Eindhoven
 ## Ireland
 * `EIDW` Dublin
@@ -28,29 +31,25 @@ All Airports in Endless ATC
 ## Sweden
 * `ESSA` Stockholm Arlanda
 ## Spain
-* LEBB Bilbao
-* LEBL Barcelona
-* LEMD Madrid
-* LEPA Palma de Mallorca
+* `LEBB` Bilbao
+* `LEBL` Barcelona
+* `LEMD` Madrid
+* `LEPA` Palma de Mallorca
 ## France
-* LFPG Charles De Gaulle
+* `LFPG` Charles De Gaulle, `LFPO` Paris Orly
 ## Austria
-* LOWW Vienna
+* `LOWW` Vienna
 ## Romania
-* LROP
+*no files yet*
 ## Switzerland
 * LSGG
 * LSZH
 # Asia
-:flag_jp: Japan
-
-#roah
-
-#rjbb
-
-#rjtt
-
-#rjcc
+## Japan
+* `ROAH` Naha Airport
+* `RJBB` Osaka Kansai
+* `RJTT` Tokyo Haneda, `RJAA` Tokyo Narita
+* `RJCC` New Chitose
 
 :flag_kr: South Korea
 
@@ -81,7 +80,7 @@ All Airports in Endless ATC
 
 ### US East
 
-* `KJFK` New York (John F. Kennedy)
+* `KJFK` JFK, `KEWR` Newark Liberty, `KLGA` LaGuardia
 * `KRVL` Mifflin County
 
 # Middle East
