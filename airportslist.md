@@ -69,27 +69,27 @@ All Airports in Endless ATC
 :flag_sg: Singapore
 
 #wsss
+# North America
+## United States
+### US West
 
-:flag_us: US West
+* `KLAX` & SoCal TRACON, 9 airports
+* `KLAS` Las Vegas
+* `KDEN` Denver
+* `KAUS` Austin
+* `KDFW` Dallas Fort Worth
 
-#klax SoCal TRACON, 9 airports
+### US East
 
-#klas Las Vegas
+* `KJFK` New York (John F. Kennedy)
 
-#kden Denver
+*`KRVL` Mifflin County
 
-#kaus Austin
+## United Arab Emirates
 
-:flag_us: US East
+* `OMDB` Dubai
 
-#kjfk New York (John F. Kennedy)
+# Africa
+## Morrocco
 
-#krvl Mifflin County
-
-:flag_ae: United Arab Emirates
-
-#omdb Dubai
-
-:flag_ma: Morrocco
-
-#gmmn Rabat-Sale
+* `GMMN` Rabat-Sale
