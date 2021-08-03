@@ -54,16 +54,15 @@ All Airports in Endless ATC
 * `RJCC` New Chitose
 ## South Korea
 * `RKSI` Seoul
-##China, SARs
+## China, SARs
 ### Mainland China
 * `ZSPD`
 ### Hong Kong & Macau
 * `VHHH`
 ## Taiwan
 *none*
-
 ## Vietnam
-`VVNB`
+* `VVNB`
 ## Singapore
 * `WSSS` Singapore Changi
 # North America
@@ -79,18 +78,12 @@ All Airports in Endless ATC
 * `KDEN` Denver
 * `KAUS` Austin
 * `KDFW` Dallas Fort Worth
-
 ### US East
-
 * `KJFK` JFK, `KEWR` Newark Liberty, `KLGA` LaGuardia
 * `KRVL` Mifflin County
-
 # Middle East
 ## United Arab Emirates
-
 * `OMDB` Dubai
-
 # Africa
 ## Morrocco
-
 * `GMMN` Rabat-Sale
