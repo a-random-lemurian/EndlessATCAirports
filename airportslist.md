@@ -66,9 +66,9 @@ All Airports in Endless ATC
 
 #vvnb
 
-:flag_sg: Singapore
-
-#wsss
+# Singapore
+* `WSSS` Singapore Changi
+* 
 # North America
 ## United States
 ### US West
@@ -82,9 +82,9 @@ All Airports in Endless ATC
 ### US East
 
 * `KJFK` New York (John F. Kennedy)
+* `KRVL` Mifflin County
 
-*`KRVL` Mifflin County
-
+# Middle East
 ## United Arab Emirates
 
 * `OMDB` Dubai
