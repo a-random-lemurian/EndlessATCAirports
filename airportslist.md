@@ -4,7 +4,18 @@ All Airports in Endless ATC
 * Every list is per airport file. Meaning that if one airport file had airports XAAA and XAAB in one it would be listed as one airport but not seperately.
 * This airport list is not guaranteed to be exhaustive or accurate due to new airports being made for Endless ATC.
 * a-random-lemurian will make an effort to keep this as up-to-date as possible.
-
+## Legend
+* `CODE` Airport name
+* `CODE` *Fictional/closed airports or airports with no file*
+* `CODE` Location TRACON
+> * `CODE` ***Main airport***
+> * `CODE` Other airport
+> * `CODE` Another secondary airport
+* `CODE` Airport with variants
+> *XX Variants Available*
+> * Airport west config
+> * Airport north config
+> * Future airport version
 # Europe
 ## Belgium
 * `EBBR` Brussels
@@ -77,10 +88,17 @@ All Airports in Endless ATC
 * `CYVR` Vancouver
 ## United States
 ### US West
-* `KSCT` SoCal TRACON, 9 airports:
-> * `KLAX` Los Angeles
+* `KSCT` Southern California TRACON, 9 airports:
+> * `KLAX` ***Los Angeles***
 > * `KBUR` Hollywood Burbank
 > * `KONT` Ontario Int'l
+> * `KLGB` Long Beach
+> * `KSNA` John Wayne/Orange County
+> * `KVNY` Van Nuys
+> * `KPMD` Palmdale Regional
+> * `KSAN` San Diego Int'l
+> * `KSMO` Santa Monica
+> * `KMYF` Montgomery-Gibbs Executive
 * `KLAS` Las Vegas
 * `KDEN` Denver
 * `KAUS` Austin
