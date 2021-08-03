@@ -6,7 +6,7 @@ All Airports in Endless ATC
 * a-random-lemurian will make an effort to keep this as up-to-date as possible.
 ## Legend
 * `CODE` Airport name
-* `CODE` *Fictional/closed airports or airports with no file*
+* `CODE` *Fictional (FICT), closed (CL) airports or airports with no file (NF)*
 * `CODE` Location TRACON
 > * `CODE` ***Main airport***
 > * `CODE` Other airport
@@ -83,6 +83,8 @@ All Airports in Endless ATC
 * `VVNB`
 ## Singapore
 * `WSSS` Singapore Changi
+## Philippines
+* `RPLL` *Ninoy Aquino Int'l* **NF**
 # North America
 ## Canada
 * `CYVR` Vancouver
@@ -116,4 +118,4 @@ All Airports in Endless ATC
 * `GMMN` Rabat-Sale
 
 # Fictional
-* `XRSS` [Lemuria Test Airport 1](https://github.com/a-random-lemurian/EndlessATCAirports/blob/master/final/custom/XRSS.txt)
+* `XRSS` [*Lemuria Test Airport 1*](https://github.com/a-random-lemurian/EndlessATCAirports/blob/master/final/custom/XRSS.txt) **FICT**
