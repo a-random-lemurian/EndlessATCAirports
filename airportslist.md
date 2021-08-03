@@ -1,7 +1,9 @@
 All Airports in Endless ATC
 
-# Note
-Every list is per airport file. Meaning that if one airport file had airports XAAA and XAAB in one it would be listed as one airport but not seperately.
+# Notes
+* Every list is per airport file. Meaning that if one airport file had airports XAAA and XAAB in one it would be listed as one airport but not seperately.
+* This airport list is not guaranteed to be exhaustive or accurate due to new airports being made for Endless ATC.
+* a-random-lemurian will make an effort to keep this as up-to-date as possible.
 
 # Europe
 ## Belgium
@@ -15,8 +17,8 @@ Every list is per airport file. Meaning that if one airport file had airports XA
 ## Finland
 ## United Kingdom
 * `EGLL` Heathrow (27s / 09s / Future 3-Rwy)
-* `EGFF`
-* `EGCC`
+* `EGFF` Cardiff
+* `EGCC` Manchester
 * London TMA
 ## Netherlands
 * `EHAM` Amsterdam Schiphol, `EHRD` Rotterdam
@@ -60,22 +62,19 @@ Every list is per airport file. Meaning that if one airport file had airports XA
 ## Taiwan
 *none*
 
-#vhhh Hong Kong (includes Macau)
-
-#zspd
-
-:flag_vn: Vietnam
-
-#vvnb
-
-# Singapore
+## Vietnam
+`VVNB`
+## Singapore
 * `WSSS` Singapore Changi
-* 
 # North America
+## Canada
+* `CYVR` Vancouver
 ## United States
 ### US West
-
-* `KLAX` & SoCal TRACON, 9 airports
+* `KSCT` SoCal TRACON, 9 airports:
+> `KLAX` Los Angeles
+> `KBUR` Hollywood Burbank
+> `KONT` Ontario Int'l
 * `KLAS` Las Vegas
 * `KDEN` Denver
 * `KAUS` Austin
