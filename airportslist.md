@@ -1,11 +1,15 @@
-All Airports in Endless ATC
+navigation
+* **airport list** 
+* [/final/ folder](https://github.com/AdamJCavanaugh/EndlessATCAirports/tree/master/final)
+------
 
 # Notes
 * Every list is per airport file. Meaning that if one airport file had airports XAAA and XAAB in one it would be listed as one airport but not seperately.
 * This airport list is not guaranteed to be exhaustive or accurate due to new airports being made for Endless ATC.
 * a-random-lemurian will make an effort to keep this as up-to-date as possible.
 ## Legend
-* `CODE` Airport name
+* `CODE` Airport name (w • file)
+> w = Wikipedia link, file = File link.
 * `CODE` *Fictional (FICT), closed (CL) airports or airports with no file (NF)*
 * `CODE` Location TRACON
 > * `CODE` ***Main airport***
@@ -36,8 +40,9 @@ All Airports in Endless ATC
 * `EGCC` Manchester
 * London TMA
 ## Netherlands
-* `EHAM` Amsterdam Schiphol, 
+* `EHAM` Amsterdam Schiphol
 > * `EHRD` Rotterdam
+> * `EHLE` *Lelystad* **CL** Opening delayed
 * `EHEH` Eindhoven
 ## Ireland
 * `EIDW` Dublin
@@ -74,7 +79,7 @@ All Airports in Endless ATC
 * `RKSI` Seoul
 ## China, SARs
 ### Mainland China
-* `ZSPD`
+* `ZSPD` Shanghai Pudong ([w](https://en.wikipedia.org/wiki/Shanghai_Pudong_International_Airport) • file)
 ### Hong Kong & Macau
 * `VHHH`
 ## Taiwan
@@ -107,9 +112,9 @@ All Airports in Endless ATC
 * `KDFW` Dallas Fort Worth
 ### US East
 * `KJFK` JFK
-> * `KEWR` Newark Liberty
-> * `KLGA` LaGuardia
-* `KRVL` Mifflin County
+> * `KEWR` Newark Liberty (w)
+> * `KLGA` LaGuardia ([w](https://en.m.wikipedia.org/wiki/LaGuardia_Airport))
+* `KRVL` Mifflin County ([w](https://en.wikipedia.org/wiki/Mifflin_County_Airport) • file)
 # Middle East
 ## United Arab Emirates
 * `OMDB` Dubai
@@ -118,4 +123,4 @@ All Airports in Endless ATC
 * `GMMN` Rabat-Sale
 
 # Fictional
-* `XRSS` [*Lemuria Test Airport 1*](https://github.com/a-random-lemurian/EndlessATCAirports/blob/master/final/custom/XRSS.txt) **FICT**
+* `XRSS` *Lemuria Test Airport 1* (~~w~~ • [file](https://github.com/a-random-lemurian/EndlessATCAirports/blob/master/final/custom/XRSS.txt) ) **FICT**
