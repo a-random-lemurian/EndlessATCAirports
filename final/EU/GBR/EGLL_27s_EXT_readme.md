@@ -1,6 +1,6 @@
-Endless ATC Heathrow 27s v2.0 by Zac. Join the Endless ATC discord at https://discord.gg/v4wDGh3
+Endless ATC Heathrow Extended v1.0 by Zac. Join the Endless ATC discord at https://discord.gg/v4wDGh3
 
-This file simulates Heathrow in the 27 configuration.
+This file simulates Heathrow with the proposed and highly controversial third runway.
 
 The vectoring is too complex to be explained in a readme - I recommend using flightradar24.com to see how they do it.
 
@@ -10,11 +10,10 @@ There are no STARs covered by Heathrow Director - aircraft are handed off descen
 
 The minimum separation for aircraft not on a localiser is 3nm. Aircraft on the same localiser must be separated by at least 2.5nm.
 
-There are three lines across the localisers, simulating real world restrictions on descent. From east to west, the minimum altitudes are 4000ft, 3000ft, and 2500ft.
+There are three lines across the localiser, simulating real world restrictions on descent. From east to west, the minimum altitudes are 4000ft, 3000ft, and 2500ft. The 4000ft line does not extend to the southern runway, to allow aircraft to establish at 3000ft.
 
 ---------------------------------------------------------
 
 Changelog
 
-v1.0 - 04/03/2021 - Initial release
-v2.0 - 07/08/2021 - Updated coastline, updated airlines, added line restrictions, removed most area restrictions, added departures
+v1.0 - 04/08/2021 - Initial release
